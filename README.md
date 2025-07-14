@@ -1,3 +1,5 @@
+# 示範將 mp4 檔案，利用 google cloud 的 音訊辨識為文字 的服務，識別輸出為.srt字幕檔
+
 # 1.本機安裝 VLC 軟體，將mp4 轉換為 flac 音訊檔格式
 	1.https://www.videolan.org/vlc/index.zh_TW.html 點[下載VLC]，下載完成後，安裝 [VLC撥放器]，
 	
